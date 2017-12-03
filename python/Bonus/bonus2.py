@@ -1,4 +1,3 @@
-from __future__ import print_function
 import numpy as np
 
 start_file = open('bonus.out')
@@ -29,6 +28,5 @@ for line in instructions:
             screen.T[col] = np.roll(screen.T[col], distance)
 
 
-print(np.sum(screen))
 print(get_screen_string())
 
