@@ -1,344 +1,345 @@
-xiaowuc1:6*		score: 450
+Leaderboard for:2017
+1) xiaowuc1: 6*		score: 450
 Day 01:  Part 1: 12:00:57 AM 12/01/17	Part 2: 12:01:16 AM 12/01/17
 Day 02:  Part 1: 12:00:36 AM 12/02/17	Part 2: 12:01:15 AM 12/02/17
 Day 03:  Part 1: 12:02:11 AM 12/03/17	Part 2: 12:04:02 AM 12/03/17
 
-Antonio Molina:6*		score: 438
+2) Antonio Molina: 6*		score: 438
 Day 01:  Part 1: 12:01:12 AM 12/01/17	Part 2: 12:02:11 AM 12/01/17
 Day 02:  Part 1: 12:01:24 AM 12/02/17	Part 2: 12:02:52 AM 12/02/17
 Day 03:  Part 1: 12:03:49 AM 12/03/17	Part 2: 12:09:59 AM 12/03/17
 
-Robert Xiao:6*		score: 436
+3) Robert Xiao: 6*		score: 436
 Day 01:  Part 1: 12:01:16 AM 12/01/17	Part 2: 12:01:35 AM 12/01/17
 Day 02:  Part 1: 12:01:28 AM 12/02/17	Part 2: 12:02:44 AM 12/02/17
 Day 03:  Part 1: 12:06:22 AM 12/03/17	Part 2: 12:11:13 AM 12/03/17
 
-Brandon Zhang:6*		score: 430
+4) Brandon Zhang: 6*		score: 430
 Day 01:  Part 1: 12:01:08 AM 12/01/17	Part 2: 12:01:37 AM 12/01/17
 Day 02:  Part 1: 12:01:34 AM 12/02/17	Part 2: 12:03:20 AM 12/02/17
 Day 03:  Part 1: 12:07:27 AM 12/03/17	Part 2: 12:12:20 AM 12/03/17
 
-Kevin Yap:6*		score: 420
+5) Kevin Yap: 6*		score: 420
 Day 01:  Part 1: 12:02:07 AM 12/01/17	Part 2: 12:02:56 AM 12/01/17
 Day 02:  Part 1: 12:01:54 AM 12/02/17	Part 2: 12:04:09 AM 12/02/17
 Day 03:  Part 1: 12:06:45 AM 12/03/17	Part 2: 12:10:25 AM 12/03/17
 
-None:6*		score: 407
+6) None: 6*		score: 407
 Day 01:  Part 1: 12:02:44 AM 12/01/17	Part 2: 12:03:26 AM 12/01/17
 Day 02:  Part 1: 12:01:37 AM 12/02/17	Part 2: 12:03:59 AM 12/02/17
 Day 03:  Part 1: 12:20:27 AM 12/03/17	Part 2: 12:28:36 AM 12/03/17
 
-SimonPrins:6*		score: 398
+7) SimonPrins: 6*		score: 398
 Day 01:  Part 1: 12:04:57 AM 12/01/17	Part 2: 12:06:05 AM 12/01/17
 Day 02:  Part 1: 12:04:41 AM 12/02/17	Part 2: 12:06:51 AM 12/02/17
 Day 03:  Part 1: 12:04:55 AM 12/03/17	Part 2: 12:14:29 AM 12/03/17
 
-Aneurysm9:6*		score: 394
+8) Aneurysm9: 6*		score: 394
 Day 01:  Part 1: 12:06:43 AM 12/01/17	Part 2: 12:10:20 AM 12/01/17
 Day 02:  Part 1: 12:01:47 AM 12/02/17	Part 2: 12:04:09 AM 12/02/17
 Day 03:  Part 1: 12:03:18 AM 12/03/17	Part 2: 12:37:13 AM 12/03/17
 
-Vivan Shah:6*		score: 371
+9) Vivan Shah: 6*		score: 371
 Day 01:  Part 1: 12:07:29 AM 12/01/17	Part 2: 12:11:25 AM 12/01/17
 Day 02:  Part 1: 12:02:50 AM 12/02/17	Part 2: 12:07:40 AM 12/02/17
 Day 03:  Part 1: 12:08:47 AM 12/03/17	Part 2: 12:34:10 AM 12/03/17
 
-Tandrial:6*		score: 358
+10) Tandrial: 6*		score: 358
 Day 01:  Part 1: 12:03:56 AM 12/01/17	Part 2: 12:06:57 AM 12/01/17
 Day 02:  Part 1: 12:15:03 AM 12/02/17	Part 2: 12:20:09 AM 12/02/17
 Day 03:  Part 1: 12:28:20 AM 12/03/17	Part 2: 12:28:32 AM 12/03/17
 
-mdwhatcott:6*		score: 356
+11) mdwhatcott: 6*		score: 356
 Day 01:  Part 1: 12:09:17 AM 12/01/17	Part 2: 12:13:05 AM 12/01/17
 Day 02:  Part 1: 12:03:08 AM 12/02/17	Part 2: 12:07:36 AM 12/02/17
 Day 03:  Part 1: 12:06:48 AM 12/03/17	Part 2: 01:28:34 AM 12/03/17
 
-BaliBalo:6*		score: 349
+12) BaliBalo: 6*		score: 349
 Day 01:  Part 1: 12:10:38 AM 12/01/17	Part 2: 12:13:46 AM 12/01/17
 Day 02:  Part 1: 12:02:33 AM 12/02/17	Part 2: 12:12:47 AM 12/02/17
 Day 03:  Part 1: 12:17:53 AM 12/03/17	Part 2: 01:14:19 AM 12/03/17
 
-@rundavidrun:6*		score: 342
+13) @rundavidrun: 6*		score: 342
 Day 01:  Part 1: 12:21:08 AM 12/01/17	Part 2: 12:24:33 AM 12/01/17
 Day 02:  Part 1: 12:06:41 AM 12/02/17	Part 2: 12:12:49 AM 12/02/17
 Day 03:  Part 1: 12:07:32 AM 12/03/17	Part 2: 12:54:37 AM 12/03/17
 
-Adrian Bjugård:6*		score: 341
+14) Adrian Bjugård: 6*		score: 341
 Day 01:  Part 1: 12:06:06 AM 12/01/17	Part 2: 12:09:28 AM 12/01/17
 Day 02:  Part 1: 12:05:55 AM 12/02/17	Part 2: 12:11:30 AM 12/02/17
 Day 03:  Part 1: 12:54:18 AM 12/03/17	Part 2: 01:16:46 AM 12/03/17
 
-Pascal-J:6*		score: 334
+15) Pascal-J: 6*		score: 334
 Day 01:  Part 1: 01:06:26 AM 12/01/17	Part 2: 01:09:40 AM 12/01/17
 Day 02:  Part 1: 12:02:47 AM 12/02/17	Part 2: 12:13:47 AM 12/02/17
 Day 03:  Part 1: 12:17:36 AM 12/03/17	Part 2: 12:37:46 AM 12/03/17
 
-that_lego_guy:6*		score: 333
+16) that_lego_guy: 6*		score: 333
 Day 01:  Part 1: 12:48:11 AM 12/01/17	Part 2: 12:55:41 AM 12/01/17
 Day 02:  Part 1: 12:01:37 AM 12/02/17	Part 2: 12:40:33 AM 12/02/17
 Day 03:  Part 1: 12:20:08 AM 12/03/17	Part 2: 12:43:02 AM 12/03/17
 
-Cody Ebberson:6*		score: 331
+17) Cody Ebberson: 6*		score: 331
 Day 01:  Part 1: 12:05:27 AM 12/01/17	Part 2: 12:06:14 AM 12/01/17
 Day 02:  Part 1: 12:02:41 AM 12/02/17	Part 2: 12:06:11 AM 12/02/17
 Day 03:  Part 1: 04:49:05 AM 12/03/17	Part 2: 04:54:54 AM 12/03/17
 
-Zack M. Davis:6*		score: 315
+18) Zack M. Davis: 6*		score: 315
 Day 01:  Part 1: 12:42:26 AM 12/01/17	Part 2: 12:49:19 AM 12/01/17
 Day 02:  Part 1: 12:08:56 AM 12/02/17	Part 2: 12:23:21 AM 12/02/17
 Day 03:  Part 1: 12:36:00 AM 12/03/17	Part 2: 12:57:47 AM 12/03/17
 
-Phong:6*		score: 310
+19) Phong: 6*		score: 310
 Day 01:  Part 1: 12:47:35 AM 12/01/17	Part 2: 12:53:53 AM 12/01/17
 Day 02:  Part 1: 12:42:50 AM 12/02/17	Part 2: 12:47:42 AM 12/02/17
 Day 03:  Part 1: 12:09:24 AM 12/03/17	Part 2: 12:36:25 AM 12/03/17
 
-Jeremiah Simmons:6*		score: 293
+20) Jeremiah Simmons: 6*		score: 293
 Day 01:  Part 1: 12:03:45 AM 12/01/17	Part 2: 12:10:36 AM 12/01/17
 Day 02:  Part 1: 06:58:13 AM 12/02/17	Part 2: 07:01:47 AM 12/02/17
 Day 03:  Part 1: 12:15:26 AM 12/03/17	Part 2: 12:24:48 AM 12/03/17
 
-thomz12:6*		score: 293
+21) thomz12: 6*		score: 293
 Day 01:  Part 1: 12:07:42 AM 12/01/17	Part 2: 12:08:45 AM 12/01/17
 Day 02:  Part 1: 12:09:45 AM 12/02/17	Part 2: 12:23:52 AM 12/02/17
 Day 03:  Part 1: 04:31:55 AM 12/03/17	Part 2: 04:47:10 AM 12/03/17
 
-DioneJM:6*		score: 289
+22) DioneJM: 6*		score: 289
 Day 01:  Part 1: 12:23:51 AM 12/01/17	Part 2: 01:08:44 AM 12/01/17
 Day 02:  Part 1: 12:34:32 AM 12/02/17	Part 2: 01:00:28 AM 12/02/17
 Day 03:  Part 1: 12:37:07 AM 12/03/17	Part 2: 01:31:47 AM 12/03/17
 
-Maurits van der Schee:6*		score: 279
+23) Maurits van der Schee: 6*		score: 279
 Day 01:  Part 1: 01:06:06 AM 12/01/17	Part 2: 01:09:37 AM 12/01/17
 Day 02:  Part 1: 01:32:24 AM 12/02/17	Part 2: 01:38:00 AM 12/02/17
 Day 03:  Part 1: 12:32:43 AM 12/03/17	Part 2: 01:13:59 AM 12/03/17
 
-microsounds:6*		score: 279
+24) microsounds: 6*		score: 279
 Day 01:  Part 1: 01:00:26 AM 12/01/17	Part 2: 01:33:13 AM 12/01/17
 Day 02:  Part 1: 12:08:09 AM 12/02/17	Part 2: 12:32:32 AM 12/02/17
 Day 03:  Part 1: 01:26:34 AM 12/03/17	Part 2: 01:46:04 AM 12/03/17
 
-lnrdgmz:6*		score: 278
+25) lnrdgmz: 6*		score: 278
 Day 01:  Part 1: 01:14:52 AM 12/01/17	Part 2: 01:20:26 AM 12/01/17
 Day 02:  Part 1: 01:04:08 AM 12/02/17	Part 2: 01:13:14 AM 12/02/17
 Day 03:  Part 1: 12:22:04 AM 12/03/17	Part 2: 01:07:11 AM 12/03/17
 
-Dan Ellis:6*		score: 274
+26) Dan Ellis: 6*		score: 274
 Day 01:  Part 1: 12:09:34 AM 12/01/17	Part 2: 12:22:14 AM 12/01/17
 Day 02:  Part 1: 12:35:47 AM 12/02/17	Part 2: 12:59:02 AM 12/02/17
 Day 03:  Part 1: 02:07:58 AM 12/03/17	Part 2: 04:33:33 AM 12/03/17
 
-jebouin:4*		score: 271
+27) jebouin: 4*		score: 271
 Day 01:  Part 1: 12:01:18 AM 12/01/17	Part 2: 12:01:45 AM 12/01/17
 Day 02:  Part 1: 12:03:04 AM 12/02/17	Part 2: 12:06:59 AM 12/02/17
 
-BafDyce:6*		score: 268
+28) BafDyce: 6*		score: 268
 Day 01:  Part 1: 12:08:12 AM 12/01/17	Part 2: 12:14:40 AM 12/01/17
 Day 02:  Part 1: 01:57:35 AM 12/02/17	Part 2: 03:13:42 AM 12/02/17
 Day 03:  Part 1: 01:21:48 AM 12/03/17	Part 2: 02:01:22 AM 12/03/17
 
-None:6*		score: 267
+29) None: 6*		score: 267
 Day 01:  Part 1: 01:27:04 AM 12/01/17	Part 2: 01:48:02 AM 12/01/17
 Day 02:  Part 1: 12:27:11 AM 12/02/17	Part 2: 12:35:34 AM 12/02/17
 Day 03:  Part 1: 12:53:09 AM 12/03/17	Part 2: 02:07:12 AM 12/03/17
 
-0rvar:6*		score: 257
+30) 0rvar: 6*		score: 257
 Day 01:  Part 1: 12:44:40 AM 12/01/17	Part 2: 02:03:18 AM 12/01/17
 Day 02:  Part 1: 12:25:38 AM 12/02/17	Part 2: 12:44:50 AM 12/02/17
 Day 03:  Part 1: 02:32:20 AM 12/03/17	Part 2: 02:47:55 AM 12/03/17
 
-Bill Cauchois:4*		score: 255
+31) Bill Cauchois: 4*		score: 255
 Day 01:  Part 1: 12:03:50 AM 12/01/17	Part 2: 12:05:58 AM 12/01/17
 Day 02:  Part 1: 12:04:35 AM 12/02/17	Part 2: 12:09:57 AM 12/02/17
 
-Ed Fowle:4*		score: 254
+32) Ed Fowle: 4*		score: 254
 Day 01:  Part 1: 12:05:41 AM 12/01/17	Part 2: 12:07:28 AM 12/01/17
 Day 02:  Part 1: 12:02:09 AM 12/02/17	Part 2: 12:09:53 AM 12/02/17
 
-vibronicshark55:6*		score: 246
+33) vibronicshark55: 6*		score: 246
 Day 01:  Part 1: 01:42:51 AM 12/01/17	Part 2: 01:43:29 AM 12/01/17
 Day 02:  Part 1: 01:47:43 AM 12/02/17	Part 2: 01:59:02 AM 12/02/17
 Day 03:  Part 1: 01:05:37 AM 12/03/17	Part 2: 01:44:29 AM 12/03/17
 
-Rascal_Two:6*		score: 229
+34) Rascal_Two: 6*		score: 229
 Day 01:  Part 1: 11:16:00 AM 12/01/17	Part 2: 11:29:00 AM 12/01/17
 Day 02:  Part 1: 12:07:59 AM 12/02/17	Part 2: 12:15:39 AM 12/02/17
 Day 03:  Part 1: 01:17:47 AM 12/03/17	Part 2: 01:19:26 AM 12/03/17
 
-Nandhan KV:6*		score: 228
+35) Nandhan KV: 6*		score: 228
 Day 01:  Part 1: 07:50:09 AM 12/01/17	Part 2: 08:41:51 AM 12/01/17
 Day 02:  Part 1: 12:15:26 AM 12/02/17	Part 2: 12:28:53 AM 12/02/17
 Day 03:  Part 1: 01:02:54 AM 12/03/17	Part 2: 01:31:53 AM 12/03/17
 
-Ryan Erickson:6*		score: 224
+36) Ryan Erickson: 6*		score: 224
 Day 01:  Part 1: 10:33:15 AM 12/01/17	Part 2: 10:54:43 AM 12/01/17
 Day 02:  Part 1: 12:08:55 AM 12/02/17	Part 2: 12:15:53 AM 12/02/17
 Day 03:  Part 1: 01:14:24 AM 12/03/17	Part 2: 01:57:47 AM 12/03/17
 
-YWR2ZW50b2Zjb2Rl:5*		score: 224
+37) YWR2ZW50b2Zjb2Rl: 5*		score: 224
 Day 01:  Part 1: 01:36:08 AM 12/01/17	Part 2: 02:04:24 AM 12/01/17
 Day 02:  Part 1: 12:04:41 AM 12/02/17	Part 2: 01:03:51 AM 12/02/17
 Day 03:  Part 1: 12:33:21 AM 12/03/17	Part 2: 
 
-barnybug:6*		score: 222
+38) barnybug: 6*		score: 222
 Day 01:  Part 1: 03:24:51 AM 12/01/17	Part 2: 03:25:57 AM 12/01/17
 Day 02:  Part 1: 05:11:14 AM 12/02/17	Part 2: 07:31:18 AM 12/02/17
 Day 03:  Part 1: 12:22:46 AM 12/03/17	Part 2: 12:29:15 AM 12/03/17
 
-lindskelsey:6*		score: 221
+39) lindskelsey: 6*		score: 221
 Day 01:  Part 1: 11:50:29 AM 12/01/17	Part 2: 11:50:47 AM 12/01/17
 Day 02:  Part 1: 12:41:11 AM 12/02/17	Part 2: 12:41:21 AM 12/02/17
 Day 03:  Part 1: 12:42:14 AM 12/03/17	Part 2: 12:45:43 AM 12/03/17
 
-u794575248:6*		score: 207
+40) u794575248: 6*		score: 207
 Day 01:  Part 1: 01:12:31 AM 12/01/17	Part 2: 01:15:05 AM 12/01/17
 Day 02:  Part 1: 04:41:30 AM 12/02/17	Part 2: 04:46:23 AM 12/02/17
 Day 03:  Part 1: 04:49:56 AM 12/03/17	Part 2: 05:29:47 AM 12/03/17
 
-monikernemo:6*		score: 191
+41) monikernemo: 6*		score: 191
 Day 01:  Part 1: 09:03:39 AM 12/01/17	Part 2: 09:07:20 AM 12/01/17
 Day 02:  Part 1: 02:32:04 AM 12/02/17	Part 2: 02:42:17 AM 12/02/17
 Day 03:  Part 1: 12:55:02 AM 12/03/17	Part 2: 02:47:16 AM 12/03/17
 
-Eddyman:5*		score: 187
+42) Eddyman: 5*		score: 187
 Day 01:  Part 1: 12:02:48 AM 12/01/17	Part 2: 12:09:12 AM 12/01/17
 Day 02:  Part 1: 05:42:06 PM 12/02/17	Part 2: 05:54:55 PM 12/02/17
 Day 03:  Part 1: 03:46:18 AM 12/03/17	Part 2: 
 
-Cian Ruane:6*		score: 186
+43) Cian Ruane: 6*		score: 186
 Day 01:  Part 1: 02:53:16 AM 12/01/17	Part 2: 02:55:13 AM 12/01/17
 Day 02:  Part 1: 04:12:36 AM 12/02/17	Part 2: 04:15:15 AM 12/02/17
 Day 03:  Part 1: 05:59:27 AM 12/03/17	Part 2: 06:21:02 AM 12/03/17
 
-None:6*		score: 182
+44) None: 6*		score: 182
 Day 01:  Part 1: 03:25:06 AM 12/01/17	Part 2: 03:25:58 AM 12/01/17
 Day 02:  Part 1: 04:42:01 AM 12/02/17	Part 2: 04:48:30 AM 12/02/17
 Day 03:  Part 1: 03:45:34 AM 12/03/17	Part 2: 04:49:40 AM 12/03/17
 
-solomonchild:6*		score: 175
+45) solomonchild: 6*		score: 175
 Day 01:  Part 1: 01:49:22 AM 12/01/17	Part 2: 02:01:38 AM 12/01/17
 Day 02:  Part 1: 04:52:37 AM 12/02/17	Part 2: 05:00:56 AM 12/02/17
 Day 03:  Part 1: 07:38:52 AM 12/03/17	Part 2: 08:07:38 AM 12/03/17
 
-windlessStorm:6*		score: 174
+46) windlessStorm: 6*		score: 174
 Day 01:  Part 1: 12:17:03 PM 12/01/17	Part 2: 12:19:33 PM 12/01/17
 Day 02:  Part 1: 12:42:34 AM 12/02/17	Part 2: 01:03:49 AM 12/02/17
 Day 03:  Part 1: 02:22:24 AM 12/03/17	Part 2: 05:59:34 AM 12/03/17
 
-Yoong Kang Lim:4*		score: 159
+47) Yoong Kang Lim: 4*		score: 159
 Day 01:  Part 1: 12:45:32 AM 12/01/17	Part 2: 01:13:30 AM 12/01/17
 Day 02:  Part 1: 02:57:57 AM 12/02/17	Part 2: 03:06:05 AM 12/02/17
 
-Conal Logan:6*		score: 155
+48) Conal Logan: 6*		score: 155
 Day 01:  Part 1: 04:31:16 AM 12/01/17	Part 2: 04:35:48 AM 12/01/17
 Day 02:  Part 1: 05:54:23 AM 12/02/17	Part 2: 06:02:15 AM 12/02/17
 Day 03:  Part 1: 04:46:48 AM 12/03/17	Part 2: 07:59:04 AM 12/03/17
 
-Paul Fedorow:6*		score: 150
+49) Paul Fedorow: 6*		score: 150
 Day 01:  Part 1: 06:01:47 AM 12/01/17	Part 2: 06:36:54 AM 12/01/17
 Day 02:  Part 1: 08:28:33 AM 12/02/17	Part 2: 08:59:45 AM 12/02/17
 Day 03:  Part 1: 02:58:50 AM 12/03/17	Part 2: 03:24:47 AM 12/03/17
 
-Tim Stallard:6*		score: 148
+50) Tim Stallard: 6*		score: 148
 Day 01:  Part 1: 05:09:54 AM 12/01/17	Part 2: 05:13:49 AM 12/01/17
 Day 02:  Part 1: 05:38:57 AM 12/02/17	Part 2: 05:54:41 AM 12/02/17
 Day 03:  Part 1: 06:46:31 AM 12/03/17	Part 2: 07:44:45 AM 12/03/17
 
-Greg Bahr:4*		score: 148
-Day 01:  Part 1: 08:08:11 AM 12/01/17	Part 2: 08:21:18 AM 12/01/17
-Day 02:  Part 1: 12:03:39 AM 12/02/17	Part 2: 12:13:51 AM 12/02/17
-
-Jochem Schulenklopper:4*		score: 148
+51) Jochem Schulenklopper: 4*		score: 148
 Day 01:  Part 1: 01:41:39 AM 12/01/17	Part 2: 01:45:32 AM 12/01/17
 Day 02:  Part 1: 01:54:01 AM 12/02/17	Part 2: 02:32:02 AM 12/02/17
 
-Alexander Kuvaev:6*		score: 146
+52) Greg Bahr: 4*		score: 148
+Day 01:  Part 1: 08:08:11 AM 12/01/17	Part 2: 08:21:18 AM 12/01/17
+Day 02:  Part 1: 12:03:39 AM 12/02/17	Part 2: 12:13:51 AM 12/02/17
+
+53) Alexander Kuvaev: 6*		score: 146
 Day 01:  Part 1: 06:11:32 AM 12/01/17	Part 2: 06:14:42 AM 12/01/17
 Day 02:  Part 1: 12:21:50 PM 12/02/17	Part 2: 12:26:49 PM 12/02/17
 Day 03:  Part 1: 03:39:36 AM 12/03/17	Part 2: 04:05:59 AM 12/03/17
 
-Desetude:5*		score: 139
+54) Desetude: 5*		score: 139
 Day 01:  Part 1: 03:39:14 AM 12/01/17	Part 2: 04:01:44 AM 12/01/17
 Day 02:  Part 1: 03:14:55 AM 12/02/17	Part 2: 05:22:14 AM 12/02/17
 Day 03:  Part 1: 05:54:26 AM 12/03/17	Part 2: 
 
-None:5*		score: 131
+55) None: 5*		score: 131
 Day 01:  Part 1: 01:38:37 AM 12/01/17	Part 2: 01:40:18 AM 12/01/17
 Day 02:  Part 1: 04:16:54 PM 12/02/17	Part 2: 04:43:09 PM 12/02/17
 Day 03:  Part 1: 06:41:49 AM 12/03/17	Part 2: 
 
-suppergerrie2:4*		score: 130
+56) suppergerrie2: 4*		score: 130
 Day 01:  Part 1: 01:50:28 AM 12/01/17	Part 2: 01:56:58 AM 12/01/17
 Day 02:  Part 1: 04:10:32 AM 12/02/17	Part 2: 04:15:20 AM 12/02/17
 
-Wes Evans:2*		score: 126
+57) Wes Evans: 2*		score: 126
 Day 01:  Part 1: 12:05:29 AM 12/01/17	Part 2: 12:07:09 AM 12/01/17
 
-Reuben:4*		score: 122
+58) Reuben: 4*		score: 122
 Day 01:  Part 1: 02:46:32 AM 12/01/17	Part 2: 02:50:23 AM 12/01/17
 Day 02:  Part 1: 04:23:03 AM 12/02/17	Part 2: 04:46:19 AM 12/02/17
 
-Sergey Bolshedvorsky:5*		score: 117
+59) Sergey Bolshedvorsky: 5*		score: 117
 Day 01:  Part 1: 04:12:28 AM 12/01/17	Part 2: 04:32:53 AM 12/01/17
 Day 02:  Part 1: 06:05:41 AM 12/02/17	Part 2: 06:42:09 AM 12/02/17
 Day 03:  Part 1: 06:13:04 AM 12/03/17	Part 2: 
 
-Buzz627:2*		score: 116
+60) Buzz627: 2*		score: 116
 Day 01:  Part 1: 12:07:02 AM 12/01/17	Part 2: 12:10:27 AM 12/01/17
 
-MonicaMuranyi:6*		score: 115
+61) MonicaMuranyi: 6*		score: 115
 Day 01:  Part 1: 07:04:22 AM 12/01/17	Part 2: 07:09:45 AM 12/01/17
 Day 02:  Part 1: 05:34:50 PM 12/02/17	Part 2: 06:27:04 PM 12/02/17
 Day 03:  Part 1: 06:17:31 AM 12/03/17	Part 2: 08:07:33 AM 12/03/17
 
-pohka:5*		score: 112
+62) pohka: 5*		score: 112
 Day 01:  Part 1: 05:53:48 PM 12/01/17	Part 2: 06:01:19 PM 12/01/17
 Day 02:  Part 1: 03:33:06 AM 12/02/17	Part 2: 03:46:19 AM 12/02/17
 Day 03:  Part 1: 01:51:55 AM 12/03/17	Part 2: 
 
-Jonathon McMurray:4*		score: 99
+63) Jonathon McMurray: 4*		score: 99
 Day 01:  Part 1: 03:55:17 AM 12/01/17	Part 2: 03:56:04 AM 12/01/17
 Day 02:  Part 1: 05:24:50 AM 12/02/17	Part 2: 05:33:45 AM 12/02/17
 
-Александр Оборин:4*		score: 98
+64) Александр Оборин: 4*		score: 98
 Day 01:  Part 1: 03:00:49 AM 12/01/17	Part 2: 03:04:32 AM 12/01/17
 Day 02:  Part 1: 06:33:18 AM 12/02/17	Part 2: 06:43:57 AM 12/02/17
 
-dgomer:6*		score: 97
+65) dgomer: 6*		score: 97
 Day 01:  Part 1: 09:06:23 AM 12/01/17	Part 2: 09:10:26 AM 12/01/17
 Day 02:  Part 1: 10:48:00 AM 12/03/17	Part 2: 10:56:18 AM 12/03/17
 Day 03:  Part 1: 11:04:30 AM 12/03/17	Part 2: 11:07:08 AM 12/03/17
 
-darshanrampatel:4*		score: 81
+66) darshanrampatel: 4*		score: 81
 Day 01:  Part 1: 05:38:16 AM 12/01/17	Part 2: 05:42:25 AM 12/01/17
 Day 02:  Part 1: 06:21:56 AM 12/02/17	Part 2: 06:36:42 AM 12/02/17
 
-SunSparc:4*		score: 60
+67) SunSparc: 4*		score: 60
 Day 01:  Part 1: 10:40:59 AM 12/01/17	Part 2: 07:58:54 PM 12/01/17
 Day 02:  Part 1: 02:19:53 AM 12/02/17	Part 2: 11:19:12 PM 12/02/17
 
-Wouter Brink:2*		score: 58
+68) Wouter Brink: 2*		score: 58
 Day 01:  Part 1: 03:07:31 AM 12/01/17	Part 2: 03:18:46 AM 12/01/17
 
-Pezmc:2*		score: 42
+69) Pezmc: 2*		score: 42
 Day 01:  Part 1: 05:25:23 AM 12/01/17	Part 2: 05:28:51 AM 12/01/17
 
-Aeglen:4*		score: 38
+70) Aeglen: 4*		score: 38
 Day 01:  Part 1: 01:32:42 PM 12/01/17	Part 2: 01:55:16 PM 12/01/17
 Day 02:  Part 1: 04:43:01 PM 12/02/17	Part 2: 04:55:53 PM 12/02/17
 
-cbuchert:2*		score: 20
+71) cbuchert: 2*		score: 20
 Day 01:  Part 1: 12:44:16 PM 12/01/17	Part 2: 
 Day 02:  Part 1: 03:11:38 PM 12/02/17	Part 2: 
 
-SmartyStreets:2*		score: 17
+72) SmartyStreets: 2*		score: 17
 Day 01:  Part 1: 11:59:28 AM 12/01/17	Part 2: 12:00:01 PM 12/01/17
 
-Atraii:2*		score: 10
+73) Atraii: 2*		score: 10
 Day 01:  Part 1: 01:37:22 PM 12/01/17	Part 2: 02:04:20 PM 12/01/17
 
-camiblanch:2*		score: 8
+74) camiblanch: 2*		score: 8
 Day 01:  Part 1: 05:20:15 PM 12/01/17	Part 2: 05:29:41 PM 12/01/17
 
-aeryndunham:0*		score: 0
+75) aeryndunham: 0*		score: 0
 
