@@ -1,5 +1,6 @@
-
+import time
 target = 361527
+
 
 direction = 0
 places = [(0, 0)]
@@ -10,7 +11,6 @@ stepped_once = False
 values = {(0,0):1}
 found = False
 part2 = 0
-
 while i < target:
 
     x, y = places[-1]
