@@ -7,7 +7,7 @@ data = list(map(int, inpt.strip().splitlines()))
 total = 0
 i = 0
 start = time.time()
-while i < len(data):
+while 0 <= i < len(data):
     next = i + data[i]
     if data[i] >= 3:
         data[i] -= 1
