@@ -34,5 +34,5 @@ fun main(args: Array<String>){
 
     println("Part 1: $total")
     println("Part 2: ${total - seen.indexOf(input.toList())}")
-    
+
 }
