@@ -1,23 +1,33 @@
-Jeremiah Simmons:10*		score: 91
+Jeremiah Simmons:12*		score: 111
 Day 01:  Part 1: 12:03:45 AM 12/01/17	Part 2: 12:10:36 AM 12/01/17
 Day 02:  Part 1: 06:58:13 AM 12/02/17	Part 2: 07:01:47 AM 12/02/17
 Day 03:  Part 1: 12:15:26 AM 12/03/17	Part 2: 12:24:48 AM 12/03/17
 Day 04:  Part 1: 12:00:52 AM 12/04/17	Part 2: 12:03:07 AM 12/04/17
 Day 05:  Part 1: 12:04:46 AM 12/05/17	Part 2: 12:07:23 AM 12/05/17
+Day 06:  Part 1: 12:15:05 AM 12/06/17	Part 2: 12:17:51 AM 12/06/17
 
-ft-l:10*		score: 86
+ft-l:12*		score: 103
 Day 01:  Part 1: 08:12:04 AM 12/01/17	Part 2: 08:14:48 AM 12/01/17
 Day 02:  Part 1: 12:06:06 AM 12/02/17	Part 2: 12:12:40 AM 12/02/17
 Day 03:  Part 1: 12:23:50 AM 12/03/17	Part 2: 12:58:25 AM 12/03/17
 Day 04:  Part 1: 07:06:59 AM 12/04/17	Part 2: 10:44:20 AM 12/04/17
 Day 05:  Part 1: 08:27:12 AM 12/05/17	Part 2: 08:29:14 AM 12/05/17
+Day 06:  Part 1: 08:57:52 AM 12/06/17	Part 2: 10:15:07 AM 12/06/17
 
-Greg Bahr:10*		score: 80
+Greg Bahr:12*		score: 97
 Day 01:  Part 1: 08:08:11 AM 12/01/17	Part 2: 08:21:18 AM 12/01/17
 Day 02:  Part 1: 12:03:39 AM 12/02/17	Part 2: 12:13:51 AM 12/02/17
 Day 03:  Part 1: 05:05:05 PM 12/03/17	Part 2: 05:27:06 PM 12/03/17
 Day 04:  Part 1: 09:18:31 AM 12/04/17	Part 2: 10:00:52 AM 12/04/17
 Day 05:  Part 1: 09:44:33 AM 12/05/17	Part 2: 09:45:56 AM 12/05/17
+Day 06:  Part 1: 09:42:13 AM 12/06/17	Part 2: 09:57:46 AM 12/06/17
+
+Michael Pieper:9*		score: 56
+Day 01:  Part 1: 09:02:51 AM 12/01/17	Part 2: 02:41:45 AM 12/02/17
+Day 02:  Part 1: 01:31:40 AM 12/02/17	Part 2: 02:14:50 AM 12/02/17
+Day 04:  Part 1: 09:54:25 AM 12/04/17	Part 2: 11:32:20 AM 12/04/17
+Day 05:  Part 1: 09:36:41 AM 12/06/17	Part 2: 11:16:26 AM 12/06/17
+Day 06:  Part 1: 01:40:39 PM 12/06/17	Part 2: 
 
 Dom-1:6*		score: 45
 Day 01:  Part 1: 01:38:12 AM 12/01/17	Part 2: 02:29:03 PM 12/01/17
@@ -29,24 +39,20 @@ Day 01:  Part 1: 12:43:20 AM 12/01/17	Part 2: 09:02:48 AM 12/01/17
 Day 02:  Part 1: 12:32:34 AM 12/02/17	Part 2: 10:48:10 PM 12/03/17
 Day 04:  Part 1: 12:26:35 AM 12/04/17	Part 2: 
 
-Michael Pieper:6*		score: 35
-Day 01:  Part 1: 09:02:51 AM 12/01/17	Part 2: 02:41:45 AM 12/02/17
-Day 02:  Part 1: 01:31:40 AM 12/02/17	Part 2: 02:14:50 AM 12/02/17
-Day 04:  Part 1: 09:54:25 AM 12/04/17	Part 2: 11:32:20 AM 12/04/17
-
 Kwright02:6*		score: 26
 Day 01:  Part 1: 02:51:18 PM 12/01/17	Part 2: 03:08:34 PM 12/01/17
 Day 02:  Part 1: 12:08:30 PM 12/04/17	Part 2: 02:53:51 PM 12/04/17
 Day 04:  Part 1: 11:33:20 AM 12/04/17	Part 2: 11:50:19 AM 12/04/17
 
-Jacob Wilfong:4*		score: 10
-Day 01:  Part 1: 04:17:44 PM 12/01/17	Part 2: 10:35:37 AM 12/04/17
-Day 02:  Part 1: 08:27:38 PM 12/04/17	Part 2: 11:01:04 AM 12/05/17
-
 Kyle Murphy:3*		score: 10
 Day 01:  Part 1: 09:05:55 AM 12/01/17	Part 2: 03:05:22 PM 12/04/17
 Day 02:  Part 1: 09:55:06 AM 12/04/17	Part 2: 
 
-Spectral Artist:2*		score: 2
+Jacob Wilfong:4*		score: 10
+Day 01:  Part 1: 04:17:44 PM 12/01/17	Part 2: 10:35:37 AM 12/04/17
+Day 02:  Part 1: 08:27:38 PM 12/04/17	Part 2: 11:01:04 AM 12/05/17
+
+Spectral Artist:3*		score: 3
 Day 01:  Part 1: 02:35:27 PM 12/04/17	Part 2: 01:53:02 PM 12/05/17
+Day 02:  Part 1: 03:37:36 PM 12/05/17	Part 2: 
 
