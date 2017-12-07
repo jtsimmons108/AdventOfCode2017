@@ -20,16 +20,13 @@ for line in data:
 for node in nodes.keys():
     if len(list(filter(lambda x: node in x, nodes.values() ))) == 0:
         start = node
-        print('Part1 : ', start)
+        print('Part 1:', start)
+
 
 def get_weights_from_node(node):
-    children = nodes[node]
-    if len(children) == 0:
-        return weights[node]
-    return weights[node] + sum(list(map(get_weights_from_node, children)))
+    return weights[node] + sum(list(map(get_weights_from_node, nodes[node])))
 
 
-previous = []
 children_weights = sorted([(node, get_weights_from_node(node)) for node in nodes[start]], key=lambda x: -x[1])
 
 while len(set([n[1] for n in children_weights])) != 1:

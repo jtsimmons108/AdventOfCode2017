@@ -428,7 +428,15 @@ Day 05:  Part 1: 01:18:49 AM 12/05/17	Part 2: 01:30:43 AM 12/05/17
 Day 06:  Part 1: 01:40:52 AM 12/06/17	Part 2: 01:46:10 AM 12/06/17
 Day 07:  Part 1: 02:02:36 AM 12/07/17	Part 2: 
 
-49) Yoong Kang Lim: 13*		score: 637
+49) lindskelsey: 12*		score: 637
+Day 01:  Part 1: 11:50:29 AM 12/01/17	Part 2: 11:50:47 AM 12/01/17
+Day 02:  Part 1: 12:41:11 AM 12/02/17	Part 2: 12:41:21 AM 12/02/17
+Day 03:  Part 1: 12:42:14 AM 12/03/17	Part 2: 12:45:43 AM 12/03/17
+Day 04:  Part 1: 12:26:47 AM 12/04/17	Part 2: 12:28:24 AM 12/04/17
+Day 05:  Part 1: 12:25:55 AM 12/05/17	Part 2: 12:28:09 AM 12/05/17
+Day 06:  Part 1: 12:36:24 AM 12/06/17	Part 2: 12:38:09 AM 12/06/17
+
+50) Yoong Kang Lim: 13*		score: 637
 Day 01:  Part 1: 12:45:32 AM 12/01/17	Part 2: 01:13:30 AM 12/01/17
 Day 02:  Part 1: 02:57:57 AM 12/02/17	Part 2: 03:06:05 AM 12/02/17
 Day 03:  Part 1: 10:53:53 PM 12/03/17	Part 2: 11:13:20 PM 12/03/17
@@ -436,14 +444,6 @@ Day 04:  Part 1: 12:50:29 AM 12/04/17	Part 2: 12:55:12 AM 12/04/17
 Day 05:  Part 1: 12:05:19 AM 12/05/17	Part 2: 12:07:33 AM 12/05/17
 Day 06:  Part 1: 08:35:16 AM 12/06/17	Part 2: 08:37:31 AM 12/06/17
 Day 07:  Part 1: 12:45:28 AM 12/07/17	Part 2: 
-
-50) lindskelsey: 12*		score: 637
-Day 01:  Part 1: 11:50:29 AM 12/01/17	Part 2: 11:50:47 AM 12/01/17
-Day 02:  Part 1: 12:41:11 AM 12/02/17	Part 2: 12:41:21 AM 12/02/17
-Day 03:  Part 1: 12:42:14 AM 12/03/17	Part 2: 12:45:43 AM 12/03/17
-Day 04:  Part 1: 12:26:47 AM 12/04/17	Part 2: 12:28:24 AM 12/04/17
-Day 05:  Part 1: 12:25:55 AM 12/05/17	Part 2: 12:28:09 AM 12/05/17
-Day 06:  Part 1: 12:36:24 AM 12/06/17	Part 2: 12:38:09 AM 12/06/17
 
 51) thomz12: 13*		score: 604
 Day 01:  Part 1: 12:07:42 AM 12/01/17	Part 2: 12:08:45 AM 12/01/17
@@ -749,17 +749,17 @@ Day 01:  Part 1: 05:25:23 AM 12/01/17	Part 2: 05:28:51 AM 12/01/17
 Day 03:  Part 1: 08:03:44 AM 12/04/17	Part 2: 
 Day 04:  Part 1: 07:00:37 AM 12/04/17	Part 2: 07:34:14 AM 12/04/17
 
-91) SunSparc: 5*		score: 97
-Day 01:  Part 1: 10:40:59 AM 12/01/17	Part 2: 07:58:54 PM 12/01/17
-Day 02:  Part 1: 02:19:53 AM 12/02/17	Part 2: 11:19:12 PM 12/02/17
-Day 03:  Part 1: 05:12:18 PM 12/06/17	Part 2: 
-
-92) MouaYing: 10*		score: 97
+91) MouaYing: 10*		score: 97
 Day 01:  Part 1: 04:09:26 PM 12/05/17	Part 2: 04:31:47 PM 12/05/17
 Day 02:  Part 1: 04:46:27 PM 12/05/17	Part 2: 05:25:33 PM 12/05/17
 Day 03:  Part 1: 06:33:07 PM 12/05/17	Part 2: 06:48:18 PM 12/05/17
 Day 04:  Part 1: 05:05:01 PM 12/06/17	Part 2: 05:10:12 PM 12/06/17
 Day 05:  Part 1: 05:49:15 PM 12/06/17	Part 2: 05:53:19 PM 12/06/17
+
+92) SunSparc: 5*		score: 97
+Day 01:  Part 1: 10:40:59 AM 12/01/17	Part 2: 07:58:54 PM 12/01/17
+Day 02:  Part 1: 02:19:53 AM 12/02/17	Part 2: 11:19:12 PM 12/02/17
+Day 03:  Part 1: 05:12:18 PM 12/06/17	Part 2: 
 
 93) Atraii: 8*		score: 80
 Day 01:  Part 1: 01:37:22 PM 12/01/17	Part 2: 02:04:20 PM 12/01/17
