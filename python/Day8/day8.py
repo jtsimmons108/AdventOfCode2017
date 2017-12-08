@@ -1,13 +1,12 @@
-import re, hashlib, itertools
+import re
 from collections import *
 
 inpt = open('day8.in').read().strip()
 data = inpt.splitlines()
-registers = {}
+registers = defaultdict(int)
 
 
 def make_jump(left, op, right):
-    registers.setdefault(left, 0)
     left = registers[left]
     return eval('{} {} {}'.format(left, op, right))
 
@@ -19,7 +18,6 @@ for line in data:
     reg1, inc, val1, reg2, op, val2 = instruction.match(line).groups()
     val1, val2 = int(val1), int(val2)
     if make_jump(reg2, op, val2):
-        registers.setdefault(reg1, 0)
         if inc == 'dec':
             val1 *= -1
         registers[reg1] += val1
