@@ -1,10 +1,11 @@
 import re
 from collections import *
+import time
+
 
 inpt = open('day8.in').read().strip()
 data = inpt.splitlines()
 registers = defaultdict(int)
-
 
 def make_jump(left, op, right):
     left = registers[left]
