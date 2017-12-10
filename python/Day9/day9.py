@@ -4,6 +4,7 @@ data = open('day9.in').read().strip()
 score, level, num_garbage, i = [0] * 4
 in_garbage = False
 
+
 while i < len(data):
     c = data[i]
     if in_garbage:
