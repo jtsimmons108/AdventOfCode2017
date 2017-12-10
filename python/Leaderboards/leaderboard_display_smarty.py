@@ -17,7 +17,7 @@ for member, stars, local_score in sorted([(name, int(members[name]['stars']), in
     out_file.write("{:3}) {:15}\t\t{:4}*\t\tscore: {}\n".format(place, name, stars, local_score))
     out_file.write("\t{:^20}\t\t{:^20}\n".format("----Part 1----", "----Part 2----"))
     daily_info = members[member]['completion_day_level']
-    for day in sorted(daily_info.keys(), key = lambda x: int(x)):
+    for day in sorted(daily_info.keys(), key = lambda x: -int(x)):
         part_one_time_string, part_two_time_string = '',''
         if '1' in daily_info[day].keys():
             part_one_time_string = dateutil.parser.parse(daily_info[day]['1']['get_star_ts']).strftime('%I:%M:%S %p %m/%d/%y')
