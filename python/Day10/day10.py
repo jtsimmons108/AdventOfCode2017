@@ -5,9 +5,8 @@ def twist(nums, start, move):
         new = nums[start:] + nums[0:end % len(nums)]
     else:
         new = nums[start:end]
-    new = new[::-1]
     for i in range(len(new)):
-        nums[(start + i) % len(nums)] = new[i]
+        nums[(start + i) % len(nums)] = new[-1 - i]
     return nums
 
 

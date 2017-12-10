@@ -7,7 +7,6 @@ import kotlin.system.measureTimeMillis
 fun main(args: Array<String>){
 
     val input = File("inputs/day10.in").readText()
-
     println("Part 1: ${part1(input)}")
     println("Part 2: ${part2(input)}")
 
@@ -50,13 +49,12 @@ fun twist(data: List<Int>, start: Int, offset: Int ) : List<Int>{
     val end = start + offset
     val toReverse = if(end > data.size){
         (data.subList(start, data.size) + data.subList(0, end % data.size)).toMutableList()
-    }else{
+    }else {
         data.subList(start, end).toMutableList()
     }
-    toReverse.reverse()
     val newList = data.toMutableList()
     for(i in toReverse.indices){
-        newList[(start + i) % newList.size] = toReverse[i]
+        newList[(start + i) % newList.size] = toReverse[toReverse.size - 1 - i]
     }
     return newList.toList()
 }
