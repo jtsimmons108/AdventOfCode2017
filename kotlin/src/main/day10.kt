@@ -39,7 +39,7 @@ fun part2(input: String): String{
     }
     
     return data.chunked(16)
-            .map { it.reduce{x, y -> x xor y}}
+            .map{it.reduce{x, y -> x xor y}}
             .map{"%02x".format(it)}
             .joinToString("")
 }
