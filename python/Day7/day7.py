@@ -30,6 +30,7 @@ def get_weights_from_node(node):
 children_weights = sorted([(node, get_weights_from_node(node)) for node in nodes[start]], key=lambda x: -x[1])
 
 while len(set([n[1] for n in children_weights])) != 1:
+    print(children_weights)
     wrong_weight = children_weights[0][1] + children_weights[-1][1] - children_weights[1][1]
     start = list(filter(lambda x: x[1] == wrong_weight, children_weights))[0][0]
     previous = children_weights
