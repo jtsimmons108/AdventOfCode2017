@@ -1,6 +1,4 @@
-import time
 target = 361527
-
 
 direction = 0
 places = [(0, 0)]

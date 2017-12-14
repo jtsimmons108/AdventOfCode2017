@@ -36,4 +36,30 @@ grid = []
 for num in range(128):
     grid.append(list(map(int, get_binary_string(get_knot_hash('jxqlasbh-{}'.format(num))))))
 
+def mark_sections(row, column, grid, group):
+    grid[row][column] = group
+
+    if row > 0 and grid[row - 1][column] == 1:
+        mark_sections(row -1, column, grid, group )
+    if row < len(grid) - 1 and grid[row + 1][column] == 1:
+        mark_sections(row + 1, column, grid, group )
+    if column > 0 and grid[row][column - 1] == 1:
+        mark_sections(row, column - 1, grid, group )
+    if column < len(grid[0]) - 1 and grid[row][column + 1] == 1:
+        mark_sections(row, column + 1, grid, group)
+
 print(sum([row.count(1) for row in grid]))
+
+# group = 1
+# for row in range(128):
+#     for column in range(128):
+#         if grid[row][column] == 1:
+#             group += 1
+#             mark_sections(row, column, grid, group)
+
+
+
+for row in grid:
+    print(''.join(['#' if num == 1 else '.' for num in row]))
+#
+# print(group - 1)
