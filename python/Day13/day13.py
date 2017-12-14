@@ -1,3 +1,6 @@
+import random
+
+random.randint()
 
 scanners = {}
 
