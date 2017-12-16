@@ -4,17 +4,12 @@ def dance(data, instructions):
             amt = int(line[1:])
             data = data[-amt:] + data[:-amt]
         elif line[0] == 'x':
-            first = line[1:line.index('/')]
-            second = line[line.index('/') + 1:]
-            first, second = map(int, (first, second))
+            first, second = map(int, line[1:].split("/"))
             data = list(data)
-            temp = data[first]
-            data[first] = data[second]
-            data[second] = temp
+            data[first], data[second] = data[second], data[first]
             data = ''.join(data)
         else:
-            first = line[1]
-            second = line[3]
+            first, second =  line[1:].split("/")
             data = data.replace(first, 'x').replace(second, first).replace('x', second)
     return data
 
