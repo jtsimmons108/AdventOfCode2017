@@ -1,11 +1,11 @@
-package main
+package main.AoC2017
 import java.io.File
 
 
 fun main(args: Array<String>){
     var sum1: Int = 0
     var sum2: Int = 0
-    val input = File("inputs/day1.in").readText()
+    val input = File("inputs/2017/day1.in").readText()
     for (i in input.indices) {
 
         //Part 1 - Check if it is the same as the one next to it

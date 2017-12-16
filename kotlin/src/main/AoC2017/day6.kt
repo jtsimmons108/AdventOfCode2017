@@ -1,6 +1,4 @@
-package main
-
-import com.sun.deploy.util.OrderedHashSet
+package main.AoC2017
 
 
 fun main(args: Array<String>){

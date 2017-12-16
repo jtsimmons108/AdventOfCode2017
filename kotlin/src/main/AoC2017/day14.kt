@@ -1,7 +1,4 @@
-package main
-
-import java.io.File
-import kotlin.math.max
+package main.AoC2017
 
 
 fun main(args: Array<String>) {

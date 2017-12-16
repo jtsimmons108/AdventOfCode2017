@@ -1,11 +1,10 @@
-package main
+package main.AoC2017
 
 import java.io.File
-import kotlin.system.measureTimeMillis
 
 fun main(args: Array<String>) {
 
-    val input = File("inputs/day5.in").readLines()
+    val input = File("inputs/2017/day5.in").readLines()
             .map { it.toInt() }
 
     for (part in 1..2) {

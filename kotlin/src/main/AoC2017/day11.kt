@@ -1,19 +1,18 @@
-package main
+package main.AoC2017
 
 import java.io.File
 import kotlin.math.abs
-import kotlin.system.measureTimeMillis
 
 fun main(args: Array<String>){
 
-        val moves = File("inputs/day11.in").readText().split(",")
+        val moves = File("inputs/2017/day11.in").readText().split(",")
         var point = Pair(0,0)
         var maxDistance = 0
         for(move in moves){
             point = moveInGrid(point, move)
-            maxDistance = maxOf(maxDistance, getDistanceBetweenPoints(point, Pair(0,0)))
+            maxDistance = maxOf(maxDistance, getDistanceBetweenPoints(point, Pair(0, 0)))
         }
-        println("Part 1: ${getDistanceBetweenPoints(point, Pair(0,0))}")
+        println("Part 1: ${getDistanceBetweenPoints(point, Pair(0, 0))}")
         println("Part 2: ${maxDistance}")
 
 }

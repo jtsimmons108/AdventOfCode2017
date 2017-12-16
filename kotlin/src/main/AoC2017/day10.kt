@@ -1,12 +1,10 @@
-package main
+package main.AoC2017
 
 import java.io.File
-import kotlin.system.measureNanoTime
-import kotlin.system.measureTimeMillis
 
 fun main(args: Array<String>){
 
-    val input = File("inputs/day10.in").readText()
+    val input = File("inputs/2017/day10.in").readText()
     println("Part 1: ${solvePart1(input)}")
     println("Part 2: ${getKnotHash(input)}")
 

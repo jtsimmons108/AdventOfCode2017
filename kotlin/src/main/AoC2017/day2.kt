@@ -1,8 +1,8 @@
-package main
+package main.AoC2017
 import java.io.File
 
 fun main(args: Array<String>){
-    val inpt: List<String> = File("inputs/day2.in").readLines()
+    val inpt: List<String> = File("inputs/2017/day2.in").readLines()
 
     var (total1, total2) = listOf(0, 0)
 

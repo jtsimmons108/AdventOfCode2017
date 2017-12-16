@@ -1,4 +1,4 @@
-package main
+package main.AoC2017
 
 import java.io.File
 
@@ -8,7 +8,7 @@ fun main(args: Array<String>){
 
 
 
-    val input = File("inputs/day8.in").readLines()
+    val input = File("inputs/2017/day8.in").readLines()
     var maxValue = Integer.MIN_VALUE
     input.map {
 

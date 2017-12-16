@@ -1,13 +1,11 @@
-package main
+package main.AoC2017
 
-import sun.jvm.hotspot.oops.CellTypeState.top
 import java.io.File
-import java.util.regex.Pattern
 
 val nodes = HashMap<String, Program>()
 fun main(args: Array<String>) {
 
-    val input = File("inputs/day7.in").readLines()
+    val input = File("inputs/2017/day7.in").readLines()
     val nameAndWeight = Regex("(\\w+)\\s\\((\\d+)\\)")
     val children = Regex("(\\w+)\\s\\((?:\\d+)\\)(?: -> )?([\\w\\,\\s]*)")
 
@@ -21,7 +19,7 @@ fun main(args: Array<String>) {
         val groups = children.find(it)!!.groupValues
         if(groups[2].isNotEmpty()){
             val parentNode = nodes.getValue(groups[1])
-            val childNodes = groups[2].split(", ").map{nodes.getValue(it)}.toList()
+            val childNodes = groups[2].split(", ").map{ nodes.getValue(it)}.toList()
             parentNode.children = childNodes
             childNodes.map { it.parent = parentNode }
         }
@@ -31,9 +29,9 @@ fun main(args: Array<String>) {
     println("Part 1: $top")
 
     while(nodes.getValue(top).children.map{it.getTotalWeight()}.toSet().size != 1){
-        val children = nodes.getValue(top).children
-        val weights = children.map{it.getTotalWeight()}.toList()
-        top = children.filter{ child: Program -> weights.count { it == child.getTotalWeight() } == 1}.first().name
+        val childs = nodes.getValue(top).children
+        val weights = childs.map{it.getTotalWeight()}.toList()
+        top = childs.filter{ child: Program -> weights.count { it == child.getTotalWeight() } == 1}.first().name
 
     }
     val offProgram = nodes.getValue(top)

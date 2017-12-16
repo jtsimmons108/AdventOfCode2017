@@ -1,4 +1,4 @@
-package main
+package main.AoC2017
 
 import java.io.File
 
@@ -6,7 +6,7 @@ var garbage = Regex("<[^>]*>")
 
 fun main(args: Array<String>) {
 
-    val s = File("inputs/day9.in").readText().replace(Regex("!."), "")
+    val s = File("inputs/2017/day9.in").readText().replace(Regex("!."), "")
     val part2 = getGarbageCount(s)
     val part1 = getScore(s.replace(garbage, ""))
 
