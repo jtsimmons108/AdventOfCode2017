@@ -1,3 +1,4 @@
+import time
 def dance(data, instructions):
     for line in instructions:
         if line[0] == 's':
@@ -13,21 +14,15 @@ def dance(data, instructions):
             data = data.replace(first, 'x').replace(second, first).replace('x', second)
     return data
 
-
 inpt = open('day16.in').read().strip().split(",")
 data = 'abcdefghijklmnop'
-i = 0
-while data != 'abcdefghijklmnop' or i == 0:
-    data = dance(data, inpt)
-    if i == 0:
-        print('Part 1: {}'.format(data))
-    i += 1
-
-extra = 1000000000 % i
-for _ in range(extra):
+seen = []
+while data not in seen:
+    seen.append(data)
     data = dance(data, inpt)
 
-print('Part 2: {}'.format(data))
+print('Part 1: {}'.format(seen[1]))
+print('Part 2: {}'.format(seen[1000000000 % len(seen)]))
 
 
 
