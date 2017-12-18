@@ -1,8 +1,9 @@
 package main.AoC2017
+
 import java.io.File
 
 
-fun main(args: Array<String>){
+fun main(args: Array<String>) {
     var sum1: Int = 0
     var sum2: Int = 0
     val input = File("inputs/2017/day1.in").readText()
@@ -14,7 +15,7 @@ fun main(args: Array<String>){
         }
 
         //Part 2 - Check if it is the same as the one halfway across from it
-        if(input[i] == input[(i + input.length / 2) % input.length]){
+        if (input[i] == input[(i + input.length / 2) % input.length]) {
             sum2 += input[i] - '0'
         }
     }
