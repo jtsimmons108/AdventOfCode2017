@@ -1,5 +1,4 @@
-import re, hashlib, itertools, numpy as np
-from collections import *
+import numpy as np, time
 
 
 def array_to_pattern_string(nparray):
