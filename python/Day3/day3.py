@@ -6,13 +6,13 @@ i = 1
 step_length = 1
 step = 0
 stepped_once = False
-values = {(0,0):1}
+values = {(0,0): 1}
 found = False
 part2 = 0
+
 while i < target:
 
     x, y = places[-1]
-
     if direction == 0:
         places.append((x + 1, y))
     elif direction == 1:

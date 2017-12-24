@@ -7,8 +7,8 @@ for i in range(len(num)):
     if num[i] == num[(i+1)%len(num)]:
         sum1 += int(num[i])
     #Part2
-    if num[i] == num[(i + len(num) / 2) % len(num)]:
+    if num[i] == num[(i + len(num) // 2) % len(num)]:
         sum2 += int(num[i])
 
-print "Part 1: " + str(sum1)
-print "Part 2: " + str(sum2)
+print('Part 1: {}'.format(sum1))
+print('Part 2: {}'.format(sum2))
