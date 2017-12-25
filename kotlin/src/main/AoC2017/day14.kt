@@ -1,15 +1,16 @@
 package main.AoC2017
 
+import kotlin.system.measureTimeMillis
+
 
 fun main(args: Array<String>) {
 
     val grid = mutableListOf<MutableList<Int>>()
 
-
-    for (num in 0..127) {
-        grid.add(getBinaryString(getKnotHash("jxqlasbh-$num"))
+    (0..127).mapTo(grid) { num ->
+        getBinaryString(getKnotHash("jxqlasbh-$num"))
                 .map { it.toInt() - '0'.toInt() }
-                .toMutableList())
+                .toMutableList()
     }
     val total = grid.map { it.count { i -> i == 1 } }.sum()
     println("Part 1: $total")

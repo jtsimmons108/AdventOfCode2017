@@ -17,7 +17,8 @@ fun main(args: Array<String>){
             }
     }
 
-    repeat(18){
+    (1..18).forEach{
+        
         val groupSize = if(grid.size % 2 == 0) 2 else 3
         val groups = grid.size / groupSize
         val newGrid = List(groups * (groupSize + 1)){_ -> mutableListOf<Int>()}
@@ -33,10 +34,11 @@ fun main(args: Array<String>){
             }
         }
         grid = newGrid.map { it.toList() }
-
+        if (it == 5){
+            println("Part 1: ${grid.sumBy { it.sum() }}")
+        }
     }
-    println(grid.sumBy { it.sum() })
- 
+    println("Part 2: ${grid.sumBy { it.sum() }}")
 }
 
 
